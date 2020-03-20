@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ccPrimary">#444c6d</color>
+    <color name="ccPrimaryDark">#283249</color>
+    <color name="ccAccent">#24d5a6</color>
+    <color name="ccBlue">#3e8eed</color>
+    <color name="ccBlack">#2c2d2e</color>
+</resources>
